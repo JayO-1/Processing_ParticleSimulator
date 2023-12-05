@@ -23,4 +23,4 @@ _Notice that particles move in three dimensions_
 4. Copy all files ending in '.pde' to this folder
 5. Run Processing
 6. Go to File > Open and open Main.pde
-7. Run the project using Processings GUI via the play button in the top left corner
+7. Run the project using Processing's IDE
