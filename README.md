@@ -11,7 +11,7 @@ The phenomenon simulated is a **grenade explosion**, and the user has the option
 
 ## Demo
 
-![Demo](https://github.com/JayO-1/Processing_ParticleSimulator/blob/main/ParticleSimGif.gif)
+![Demo](https://github.com/JayO-1/Processing_ParticleSimulator/blob/main/images/ParticleSimGif.gif)
 
 _Notice that particles move in three dimensions_
 
