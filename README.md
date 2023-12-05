@@ -1,7 +1,7 @@
 # Particle Simulator
 Particle simulator built using [Processing](https://processing.org/). Processing is a versatile programming language and graphics library built on Java, designed to empower artists and designers in the creation of digital media and interactive projects.
 
-The phenomenon simulated is a grenade explosion, and the user has the option of varying various parameters such as:
+The phenomenon simulated is a **grenade explosion**, and the user has the option of varying various parameters such as:
 - Number of particles
 - Particle speed
 - Particle lifetime
