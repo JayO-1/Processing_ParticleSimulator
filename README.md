@@ -9,7 +9,7 @@ The phenomenon simulated is a grenade explosion, and the user has the option of 
 - Gravity strength
 - Wind strength
 
-## Simulator Demo
+## Demo
 
 ![Demo](https://github.com/JayO-1/Processing_ParticleSimulator/blob/main/ParticleSimGif.gif)
 
