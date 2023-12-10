@@ -17,7 +17,7 @@ _Notice that particles move in three dimensions_
 
 ## Setup
 
-1. Install Processing
+1. Install Processing [here](https://processing.org/download)
 2. Clone the repo
 3. Create a new folder in Processing's sketchbook folder named 'ParticleSimMain'. On Windows, this will be found under Documents/Processing by default
 4. Copy all files ending in '.pde' to this folder
