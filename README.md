@@ -11,12 +11,6 @@ The phenomenon simulated is a **grenade explosion**, and the user has the option
 
 The FPS is displayed on screen to allow one to observe the effect on FPS of varying these parameters.
 
-## Demo
-
-![Demo](https://github.com/JayO-1/Processing_ParticleSimulator/blob/main/images/ParticleSimGif.gif)
-
-_Notice that particles move in three dimensions_
-
 ## Setup
 
 1. Install Processing [here](https://processing.org/download)
@@ -26,3 +20,9 @@ _Notice that particles move in three dimensions_
 5. Run Processing
 6. Go to File > Open and open **ParticleSimMain.pde**
 7. Run the project using Processing's IDE
+
+## Demo
+
+![Demo](https://github.com/JayO-1/Processing_ParticleSimulator/blob/main/images/ParticleSimGif.gif)
+
+_Notice that particles move in three dimensions_
